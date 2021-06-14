@@ -1,6 +1,6 @@
 # Java Composition Coding With Eclipse
 
-![alt text](https://github.com/alpergorgulu/My-Project/blob/main/CELL.jpg)
+![alt text](https://github.com/alpergorgulu/My-Project/blob/main/pic/CELL.jpg)
 
 ### Proje Tanımı
 
