@@ -17,5 +17,9 @@ Proje 6 adet Class'tan oluşmaktadır. Projenin Test dosyası. "Test.java"dır. 
 
 `src/Test.java`
 
+### Author
+
+Alper GÖRGÜLÜ
+
 
 
